@@ -1,0 +1,31 @@
+{
+    "artifact": {
+      "name": "The Golden Idol",
+      "description": "A priceless ancient artifact made of solid gold, depicting a deity from an unknown civilization."
+    },
+    "theft": {
+      "location": "The Museum of Antiquities",
+      "date": "2024-02-10",
+      "method": "Break-in through the skylight"
+    },
+    "suspects": [
+      {
+        "name": "Vincent Vandal",
+        "description": "Known art thief with a history of stealing valuable artifacts from museums.",
+        "motive": "To sell the artifact on the black market for a large sum of money.",
+        "last_known_location": "Paris, France"
+      },
+      {
+        "name": "Gina Greed",
+        "description": "Rich socialite with an obsession for rare and valuable items.",
+        "motive": "To add the artifact to her private collection as a status symbol.",
+        "last_known_location": "New York City, USA"
+      },
+      {
+        "name": "Eddie Enigma",
+        "description": "Master of disguise and espionage, known for pulling off elaborate heists.",
+        "motive": "To use the artifact as leverage in a high-stakes negotiation.",
+        "last_known_location": "London, UK"
+      }
+    ]
+  }
